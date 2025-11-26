@@ -12,7 +12,7 @@ Communication is structured for consistency and speed: daily standups for progre
 
 Continuous improvement comes through regular retrospectives and tracking action items in project backlogs. Learnings are celebrated and built into future projects, sustaining a culture of transparency and excellence at OctoAcme.
 
-## Process Docs Index
+## Process Document Index
 
 All official program management documents are stored in `/docs/`. Start here with the overview, then explore focused guides for each workflow:
 - [Project Management Overview](docs/octoacme-project-management-overview.md)
